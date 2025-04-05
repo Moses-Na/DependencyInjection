@@ -1,4 +1,4 @@
-public class ApiDataService implements IDataService{
+public class ApiDataService implements IDataService {
     private String apiKey;
 
     public ApiDataService(String apiKey){

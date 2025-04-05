@@ -1,4 +1,4 @@
-public class DatabaseDataService implements IDataService{
+public class DatabaseDataService implements IDataService {
     private String dbConnectionString;
 
     public DatabaseDataService(String dbConnectionString) {
